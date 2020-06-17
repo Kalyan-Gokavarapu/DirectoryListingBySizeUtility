@@ -20,3 +20,15 @@ F:\Office\projects\lab\DirectoryListingBySize\DirectoryListing\bin\Debug\Directo
 F:\Office\projects\lab\DirectoryListingBySize\DirectoryListing\bin\Debug\DirectoryListing.pdb
 F:\Office\projects\lab\DirectoryListingBySize\DirectoryListing\bin\Debug\Delimon.Win32.IO.dll
 F:\Office\projects\lab\DirectoryListingBySize\DirectoryListing\obj\Debug\DirectoryListing.csproj.CopyComplete
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\bin\Debug\DirectoryListing.exe.config
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\bin\Debug\DirectoryListing.exe
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\bin\Debug\DirectoryListing.pdb
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\bin\Debug\Delimon.Win32.IO.dll
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.csprojAssemblyReference.cache
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.FolderExplorer.resources
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.Properties.Resources.resources
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.csproj.GenerateResource.cache
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.csproj.CoreCompileInputs.cache
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.csproj.CopyComplete
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.exe
+D:\Projects\GitRepo\DirectoryListingBySizeUtility\obj\Debug\DirectoryListing.pdb
